@@ -56,6 +56,7 @@
 [Blanboom](https://blanboom.org/) | <https://blanboom.org/feed>
 [TonyHe](https://www.ouorz.com/) | <https://blog.ouorz.com/feed>
 [程序员的喵](https://catcoding.me/archives/) | <https://catcoding.me/atom.xml>
+[潘深练的个人网站](https://www.panshenlian.com/) | <http://feeds.feedburner.com/panshenlian/DxHj>
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
